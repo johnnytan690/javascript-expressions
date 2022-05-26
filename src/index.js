@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const name = "Johnny";
-var luckynumber = Math.random();
+var luckynumber = Math.random(n);
 
 ReactDOM.render(
   <div>
